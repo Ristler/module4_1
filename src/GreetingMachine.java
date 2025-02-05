@@ -12,5 +12,6 @@ public class GreetingMachine {
         GreetingMachine gm = new GreetingMachine();
         gm.greet();
         gm.greet("Good Morning Universe");
+        System.out.println("Hello teachers!");
     }
 }
