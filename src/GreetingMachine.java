@@ -1,7 +1,7 @@
 public class GreetingMachine {
 
     public void greet() {
-        System.out.println("Hello World!");
+        System.out.println("Hello Pluto!");
     }
 
     public void greet(String message) {
